@@ -1,8 +1,0 @@
-{
-"SpaProxyServer": {
-"ServerUrl": "https://localhost:44454",
-"LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\devku\\Desktop\\.vs\\Blanker\\Blanker\\ClientApp\\",
-"MaxTimeoutInSeconds": "120"
-}
-}
