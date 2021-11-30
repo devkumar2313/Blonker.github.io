@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Blonker.github.io/static/css/main.4afe4b98.chunk.css",
-    "main.js": "/Blonker.github.io/static/js/main.15b6a09c.chunk.js",
-    "main.js.map": "/Blonker.github.io/static/js/main.15b6a09c.chunk.js.map",
+    "main.js": "/Blonker.github.io/static/js/main.2cdfe3da.chunk.js",
+    "main.js.map": "/Blonker.github.io/static/js/main.2cdfe3da.chunk.js.map",
     "runtime-main.js": "/Blonker.github.io/static/js/runtime-main.19e8ae7d.js",
     "runtime-main.js.map": "/Blonker.github.io/static/js/runtime-main.19e8ae7d.js.map",
-    "static/js/2.c03428ec.chunk.js": "/Blonker.github.io/static/js/2.c03428ec.chunk.js",
-    "static/js/2.c03428ec.chunk.js.map": "/Blonker.github.io/static/js/2.c03428ec.chunk.js.map",
+    "static/js/2.a0b837f4.chunk.js": "/Blonker.github.io/static/js/2.a0b837f4.chunk.js",
+    "static/js/2.a0b837f4.chunk.js.map": "/Blonker.github.io/static/js/2.a0b837f4.chunk.js.map",
     "static/js/3.978fe3dc.chunk.js": "/Blonker.github.io/static/js/3.978fe3dc.chunk.js",
     "static/js/3.978fe3dc.chunk.js.map": "/Blonker.github.io/static/js/3.978fe3dc.chunk.js.map",
     "index.html": "/Blonker.github.io/index.html",
     "static/css/main.4afe4b98.chunk.css.map": "/Blonker.github.io/static/css/main.4afe4b98.chunk.css.map",
-    "static/js/2.c03428ec.chunk.js.LICENSE.txt": "/Blonker.github.io/static/js/2.c03428ec.chunk.js.LICENSE.txt"
+    "static/js/2.a0b837f4.chunk.js.LICENSE.txt": "/Blonker.github.io/static/js/2.a0b837f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.19e8ae7d.js",
-    "static/js/2.c03428ec.chunk.js",
+    "static/js/2.a0b837f4.chunk.js",
     "static/css/main.4afe4b98.chunk.css",
-    "static/js/main.15b6a09c.chunk.js"
+    "static/js/main.2cdfe3da.chunk.js"
   ]
 }
